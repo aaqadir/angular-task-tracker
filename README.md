@@ -4,9 +4,9 @@ This is basic angular project created by referring tutorial from Youtube to lear
 
 https://aaqadir.github.io/angular-task-tracker
 
-#Add Task (click on add Task Button)
-#Delete Task (click on x button on side of each task)
-#Toggle Reminder (double click on any task)
+# Add Task (click on add Task Button)
+# Delete Task (click on x button on side of each task)
+# Toggle Reminder (double click on any task)
 
 ### Install dependencies
 
