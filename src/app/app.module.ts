@@ -16,7 +16,7 @@ import { TasksComponent } from './components/tasks/tasks.component';
 import { TaskItemComponent } from './components/task-item/task-item.component';
 
 const appRoutes: Routes = [
-  { path: 'angular-task-tracker', component: TasksComponent },
+  { path: '', component: TasksComponent },
   { path: 'about', component: AboutComponent },
 ];
 
