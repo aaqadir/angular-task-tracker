@@ -1,7 +1,7 @@
 <header>
   <h1>{{ title }}</h1>
   <app-button
-    *ngIf="hasRoute('/angular-task-tracker')"
+    *ngIf="hasRoute('/angular-task-tracker/')"
     text="{{ showAddTask ? 'Close' : 'Add' }}"
     color="{{ showAddTask ? 'red' : 'green' }}"
     (btnClick)="toggleAddTaskHeader()"

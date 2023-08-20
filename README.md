@@ -30,4 +30,5 @@ npm run json-server
 
 ```
 ng build
+ng build --output-path docs --base-href /angular-task-tracker/
 ```
